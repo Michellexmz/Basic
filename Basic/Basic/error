@@ -1,0 +1,8 @@
+class Statement has no member named 'executeDirect'
+        Base class's function?
+
+expected primary-expression before ')' token
+        if(  .getType())
+
+ ||    &&
+  if(!___&&!___)
